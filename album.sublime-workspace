@@ -1,0 +1,701 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"userReducer"
+			],
+			[
+				"log",
+				"login"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"A",
+				"AuthElements.js"
+			],
+			[
+				"cla",
+				"classes"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"photo",
+				"photoURL"
+			],
+			[
+				"pho",
+				"photoURL"
+			],
+			[
+				"App",
+				"AppNav"
+			],
+			[
+				"CanRe",
+				"CanResetPassword"
+			],
+			[
+				"CanRes",
+				"CanResetPasswordContract"
+			],
+			[
+				"Authe",
+				"AuthenticatableContract"
+			],
+			[
+				"Aut",
+				"Authenticatable"
+			],
+			[
+				"Au",
+				"Authenticatable"
+			],
+			[
+				"month",
+				"month_birth"
+			],
+			[
+				"create",
+				"createFromFormat"
+			],
+			[
+				"overflo",
+				"overflow-x\tproperty"
+			],
+			[
+				"repe",
+				"repeat-y\tbackground-repeat"
+			],
+			[
+				"amen",
+				"amenities"
+			],
+			[
+				"type",
+				"typeProperty"
+			],
+			[
+				"crea",
+				"create"
+			],
+			[
+				"MODE",
+				"Models"
+			],
+			[
+				"subcatre",
+				"subcategory"
+			],
+			[
+				"lat",
+				"last_event"
+			],
+			[
+				"id",
+				"id_country"
+			],
+			[
+				"ch",
+				"chkArray"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"respon",
+				"responseData"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"valid",
+				"validatedData"
+			],
+			[
+				"Control",
+				"Controllers"
+			],
+			[
+				"share_",
+				"share_price"
+			],
+			[
+				"home",
+				"homestead"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/RentAdvisorTravel/app/Http/Controllers/AmenityController.php",
+			"settings":
+			{
+				"buffer_size": 2851,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/RentAdvisorTravel",
+		"/C/xampp/htdocs/RentAdvisorTravel/app",
+		"/C/xampp/htdocs/RentAdvisorTravel/app/Http",
+		"/C/xampp/htdocs/RentAdvisorTravel/app/Http/Controllers",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/properties",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/properties/sections",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/users",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/users/profile",
+		"/C/xampp/htdocs/RentAdvisorTravel/routes"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/properties/detail_property.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/users/profile/index.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/app/Http/Controllers/PropertiesController.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/routes/web.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/properties/sections/step1.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/front/rentadvisor/sections/details.html",
+		"/C/xampp/htdocs/RentAdvisorTravel/app/Models/TypeProperty.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/app/Http/Controllers/TypePropertyController.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/admin/properties/amenities/edit.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/layouts/sidebar.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/admin/properties/typeproperties/edit.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/app/Http/Controllers/RoomController.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/public/filename.txt",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/admin/properties/amenities/create.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/admin/properties/typeproperties/create.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/admin/properties/typeproperties/index.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/admin/properties/amenities/index.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/app/Http/Controllers/SubcategoryController.php",
+		"/C/Users/José/Documents/React/albums/src/initializers/store.js",
+		"/C/Users/José/Documents/React/albums/src/initializers/actions.js",
+		"/C/Users/José/Documents/React/albums/src/index.js",
+		"/C/Users/José/Documents/React/albums/src/components/AuthElements.js",
+		"/C/Users/José/Documents/React/albums/src/containers/Login.js",
+		"/C/Users/José/Documents/React/albums/package.json",
+		"/C/Users/José/Documents/React/albums/src/components/AppNav.js",
+		"/C/Users/José/AppData/Roaming/Sublime Text 3/Packages/User/Babel.sublime-settings",
+		"/C/Users/José/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/C/Users/José/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/users/profile/edit.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/app/Http/Controllers/AmenityController.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/migrations/2019_03_13_034205_create_amenities_table.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/properties/create.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/app/Http/Controllers/UsersController.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/front/rentadvisor/admin/user_profile.html",
+		"/C/Users/José/Documents/React/albums/album.sublime-project",
+		"/C/Users/José/Documents/React/albums/src/Login.js",
+		"/C/Users/José/Documents/React/albums/src/initializers/firebase.js",
+		"/C/Users/José/Documents/React/albums/src/App.js",
+		"/C/Users/José/Downloads/credentials.json",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/admin/class/categories/edit.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/factories/UserFactory.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/front/rentadvisor/sections/home.html",
+		"/C/xampp/htdocs/RentAdvisorTravel/front/rentadvisor/admin/inbox.html",
+		"/C/xampp/htdocs/RentAdvisorTravel/app/User.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/app/Models/Amenity.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/seeds/UsersMakeSeeder.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/vendor/laravel/framework/src/Illuminate/Auth/RequestGuard.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Guard.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/front/rentadvisor/admin/edit_user.html",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/layouts/sidebar_user.blade.php",
+		"/C/xampp/htdocs/tailwind/node_modules/tailwindcss/utilities.css",
+		"/C/xampp/htdocs/tailwind/node_modules/tailwindcss/tailwind.css",
+		"/C/xampp/htdocs/tailwind/node_modules/tailwindcss/dist/utilities.css",
+		"/C/xampp/htdocs/tailwind/node_modules/tailwindcss/dist/utilities.css.map",
+		"/C/xampp/htdocs/bootuseful/.gitignore",
+		"/C/xampp/htdocs/bootuseful/package.json",
+		"/C/xampp/htdocs/tailwind/node_modules/tailwindcss/package.json",
+		"/C/xampp/htdocs/bootuseful/lib/cli.js",
+		"/C/xampp/htdocs/bootuseful/lib/cli-compiled.js",
+		"/C/xampp/htdocs/tailwind/node_modules/tailwindcss/lib/cli.js",
+		"/C/xampp/htdocs/tailwind/node_modules/tailwindcss/lib/cli/commands/init.js",
+		"/C/xampp/htdocs/tailwind/node_modules/tailwindcss/lib/cli/main.js",
+		"/C/xampp/htdocs/tailwind/node_modules/tailwindcss/lib/cli/utils.js",
+		"/C/xampp/htdocs/tailwind/node_modules/tailwindcss/lib/cli/constants.js",
+		"/C/xampp/htdocs/tailwind/package.json",
+		"/C/xampp/htdocs/tailwind/node_modules/tailwindcss/lib/index.js",
+		"/C/xampp/htdocs/tailwind/node_modules/tailwindcss/lib/util/generateModules.js",
+		"/C/xampp/htdocs/bootuseful/README.md",
+		"/C/xampp/htdocs/tailwind/node_modules/tailwindcss/lib/utilityModules.js",
+		"/C/xampp/htdocs/bootuseful/utilities.css",
+		"/C/xampp/htdocs/bootuseful/bootuseful.css",
+		"/C/xampp/htdocs/tailwind/node_modules/tailwindcss/lib/build.js",
+		"/C/xampp/htdocs/tailwind/package-lock.json",
+		"/C/xampp/htdocs/bootuseful/test.html",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/admin/properties/rooms/edit.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/admin/properties/rooms/index.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/admin/properties/rooms/create.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/app/Models/Room.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/seeds/RoomsMakeSeeder.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/seeds/TypePropertiesMakeSeeder.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/seeds/AmenitiesMakeSeeder.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/seeds/AmenitiesMakeSeeder",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/migrations/2019_03_11_030118_create_rooms_table.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/factories/RoomFactory.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/factories/AmenityFactory.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/factories/TypePropertyFactory.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/migrations/2019_03_13_034559_create_type_properties_table.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/app/Http/Controllers/CategoryController.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/admin/locations/cities/edit.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/admin/locations/cities/create.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/admin/locations/cities/index.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/sass/app.scss",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/js/bootstrap.js",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/js/app.js",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/home.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/js/components/ExampleComponent.vue",
+		"/C/xampp/htdocs/RentAdvisorTravel/node_modules/gijgo/package.json",
+		"/C/xampp/htdocs/RentAdvisorTravel/.env",
+		"/C/xampp/htdocs/RentAdvisorTravel/public/index.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/app/Models/State.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/factories/SubcategoryFactory.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/app/Models/Subcategory.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/migrations/2019_03_07_024107_create_subcategories_table.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/seeds/SubcategoriesMakeSeeder.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/app/Models/Country.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/factories/StatesFactory.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/admin/locations/states/edit.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/admin/class/subcategories/edit.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/admin/locations/states/create.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/admin/class/subcategories/create.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/admin/class/subcategories/index.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/admin/class/categories/create.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/admin/class/categories/index.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/app/Models/Category.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/app/Http/Controllers/StateController.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/app/Http/Controllers/Auth/LoginController.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/factories/CitiesFactory.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/factories/CategoryFactory.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/seeds/CategoriesMakeSeeder.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/migrations/2019_02_17_194821_create_cities_table.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/database/migrations/2019_02_28_045747_create_categories_table.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/resources/views/admin/locations/countries/edit.blade.php",
+		"/C/xampp/htdocs/RentAdvisorTravel/app/Http/Controllers/CountryController.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\tailwind\\node_modules\\tailwindcss",
+			"C:\\xampp\\htdocs\\RentAdvisorTravel\\resources\\views\\admin"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"userLoggedIn",
+			"step4",
+			"birth",
+			"1",
+			"user",
+			"engines",
+			"chalk",
+			"bin",
+			"lodash",
+			"modules",
+			"module",
+			"zindex",
+			"colors",
+			"clean-css",
+			"ox",
+			"overflow",
+			"background-position",
+			"transform",
+			"sm",
+			"xs",
+			".text-",
+			"room",
+			"jquery",
+			"langs",
+			"url",
+			"autoload",
+			"country",
+			"city",
+			"state",
+			"table",
+			"locations",
+			"getForeignKey(",
+			"username",
+			"validate",
+			"username",
+			"email",
+			"username",
+			"name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/RentAdvisorTravel/app/Http/Controllers/AmenityController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2851,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.66.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 99.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.530018761726,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "album.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\RentAdvisorTravel"
+		}
+	],
+	"syntax_override":
+	{
+		"\\.html$":
+		[
+			"Handlebars",
+			"grammars",
+			"Handlebars"
+		],
+		"\\.js$":
+		[
+			"Babel",
+			"JavaScript (Babel)"
+		]
+	}
+}
